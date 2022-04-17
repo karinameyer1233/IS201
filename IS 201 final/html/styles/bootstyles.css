@@ -1,0 +1,33 @@
+
+.header {
+    font-size: large;
+    font-weight: bold;
+    text-decoration: underline;
+}
+html, body {
+    overflow-x: hidden;
+}
+.background {
+    background-color: peachpuff;
+    width: 100%;
+}
+.header-bar {
+    margin: 0 --9999rem;
+    padding: 0.25rem 9999rem;
+    background-color: peachpuff;
+}
+.title {
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bold;
+}
+.captions {
+    font-size: medium;
+    font-style: italic;
+    color: goldenrod;
+    text-align: center;
+    padding-top: 5px;
+}
+
+
+

@@ -1,0 +1,27 @@
+a:visited {
+    color: palevioletred;
+}
+/* custom style for picture captions*/
+.captions {
+    font-size: medium;
+    font-style: italic;
+    color: goldenrod;
+    text-align: center;
+    padding-top: 5px;
+}
+.underline {
+    text-decoration: underline;
+    z-index: 1;
+}
+ul {
+    text-decoration: none;
+    z-index: 1;
+}
+.instagram {
+    color: pink;
+}
+/*custom style for page footer*/
+footer {
+    font-weight: bolder;
+    font-family: fantasy;
+}
